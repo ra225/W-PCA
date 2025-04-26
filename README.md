@@ -46,7 +46,7 @@ The checkpoints will be saved into `./exp/pretrain/supernet/`,
 
 
 
-## Train the teacher model (BERT$_{\rm BASE}$)
+## Train the teacher model (BERT-base)
 ```shell
 bash train.sh
 ```
