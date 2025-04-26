@@ -78,12 +78,10 @@ bash test.sh
 ```
 The test results will be saved into `./test_results/`.
 
-<<<<<<< HEAD
+
 ## Ranking Evaluation Test
 Add W-PCA to [FlexiBERT](https://github.com/aaronserianni/training-free-nas)
 
-=======
->>>>>>> ee47af74fa03878235304fbe21f25f8b7c61dd48
 
 ## Citation
 ```
